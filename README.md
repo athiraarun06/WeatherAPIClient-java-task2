@@ -36,4 +36,4 @@ static final String CITY = "Bangalore";
 static final String API_KEY = "bc0faa6edc212f3eccaf52578814c4c0";
 
 # OUTPUT 
-![Image](https://github.com/user-attachments/assets/a8f07c3c-88ec-441e-8fde-957707fcc199)
+![Image](https://github.com/user-attachments/assets/f868d58a-8049-4261-baa8-abe16a9abfa3)
