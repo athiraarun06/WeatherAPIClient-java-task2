@@ -2,7 +2,7 @@
 Java Programming task-2, Weather API Client, CodTech solutions Internship COMPANY: CODTECH IT SOLUTIONS NAME: ATHIRA ARUN INTERN ID: CT04DG364 DOMAIN: JAVA PROGRAMMING DURATION: 4 WEEKS MENTOR: NEELA SANTHOSH
 
 ## Overview
-**RestAPIClient** is a simple Java console application that consumes the public OpenWeatherMap REST API to fetch real-time weather data for a specified city (default is Bangalore). It sends HTTP requests, parses JSON responses, and displays weather information in a structured format.
+**WeatherAPIClient** is a simple Java console application that consumes the public OpenWeatherMap REST API to fetch real-time weather data for a specified city (default is Bangalore). It sends HTTP requests, parses JSON responses, and displays weather information in a structured format.
 
 ## Features
 - Fetches weather data via HTTP GET requests
