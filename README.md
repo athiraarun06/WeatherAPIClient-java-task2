@@ -34,6 +34,8 @@ static final String CITY = "Bangalore";
 
 -To use your own OpenWeatherMap API key, replace the API_KEY variable:
 static final String API_KEY = "bc0faa6edc212f3eccaf52578814c4c0";
+# Author
+ATHIRA ARUN
 
 # OUTPUT 
 ![Image](https://github.com/user-attachments/assets/f868d58a-8049-4261-baa8-abe16a9abfa3)
