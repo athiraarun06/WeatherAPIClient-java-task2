@@ -18,7 +18,7 @@ Java Programming task-2, Weather API Client, CodTech solutions Internship COMPAN
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/WeatherFetcher.git
+   git clone https://github.com/athiraarun06/WeatherFetcher.git
    cd WeatherFetcher
 2. Download the json.jar from the org.json GitHub repo and place it in your project directory.
 3. Compile the Java program:
